@@ -1,0 +1,7 @@
+name: DadaGuardPvpFix
+version: 1.0.0
+main: it.dadasmp.guardpvpfix.DadaGuardPvpFix
+api-version: "1.20"
+author: DadaSMP
+depend: [DadaGuard]
+description: Fa prevalere le sottozone PvP allow dentro regioni spawn protette.
